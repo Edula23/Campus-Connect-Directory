@@ -3,6 +3,7 @@
 
 ![Welcome](assets/gif1.gif)
 
+
 # Campus-Connect-Directory
 
 **Campus Connect Directory**  is  a client-side web application designed to help students browse and search university clubs and events in an interactive, user-friendly way. It provides a dynamic single-page experience using only HTML, CSS, and JavaScript.  
